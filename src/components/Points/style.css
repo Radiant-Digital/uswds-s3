@@ -1,0 +1,69 @@
+.points {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.points .content-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 284px;
+}
+
+.points .list-of-centers-by {
+  align-self: stretch;
+  font-family: var(--h3-link-font-family);
+  font-size: var(--h3-link-font-size);
+  font-style: var(--h3-link-font-style);
+  font-weight: var(--h3-link-font-weight);
+  letter-spacing: var(--h3-link-letter-spacing);
+  line-height: var(--h3-link-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.points .programs-are-the {
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.points .icon-60 {
+  height: 50px !important;
+  position: relative !important;
+  width: 50px !important;
+}
+
+.points.dark {
+  justify-content: center;
+}
+
+.points.dark .list-of-centers-by {
+  color: #1a4480;
+}
+
+.points.light .list-of-centers-by {
+  color: var(--full-white);
+}
+
+.points.dark .programs-are-the {
+  color: #1a4480;
+}
+
+.points.light .programs-are-the {
+  color: var(--full-white);
+}

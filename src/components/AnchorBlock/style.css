@@ -1,0 +1,106 @@
+.anchor-block {
+  align-items: center;
+  background-color: #162e51;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  padding: 80px 130px;
+  position: relative;
+  width: 1920px;
+}
+
+.anchor-block .text {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.anchor-block .frame-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.anchor-block .what-is {
+  color: var(--full-white);
+  font-family: var(--h1-font-family);
+  font-size: var(--h1-font-size);
+  font-style: var(--h1-font-style);
+  font-weight: var(--h1-font-weight);
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 500px;
+}
+
+.anchor-block .your-source-of-truth {
+  color: var(--accent-coolaccent-cool-lighter);
+  font-family: var(--intro-font-family);
+  font-size: var(--intro-font-size);
+  font-style: var(--intro-font-style);
+  font-weight: var(--intro-font-weight);
+  letter-spacing: var(--intro-letter-spacing);
+  line-height: var(--intro-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 799px;
+}
+
+.anchor-block .the-program-data {
+  color: var(--basebase-lightest);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: relative;
+  text-align: center;
+  width: 1104px;
+}
+
+.anchor-block .anchors {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 120px;
+  justify-content: center;
+  position: relative;
+  width: 1492.22px;
+}
+
+.anchor-block .points-instance {
+  flex: 0 0 auto !important;
+  margin-left: -1.89px !important;
+}
+
+.anchor-block .design-component-instance-node {
+  color: var(--basebase-lighter) !important;
+}
+
+.anchor-block .points-2 {
+  flex: 0 0 auto !important;
+}
+
+.anchor-block .points-3 {
+  flex: 0 0 auto !important;
+  margin-right: -1.89px !important;
+}
+
+.anchor-block .icon-instance-node {
+  height: 50px !important;
+  position: relative !important;
+  width: 50px !important;
+}

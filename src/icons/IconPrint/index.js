@@ -1,0 +1,1 @@
+export { IconPrint } from "./IconPrint";

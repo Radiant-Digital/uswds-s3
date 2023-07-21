@@ -1,0 +1,97 @@
+.button-big {
+  position: relative;
+}
+
+.button-big .default-2 {
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+}
+
+.button-big.state-1-active {
+  align-items: center;
+  background-color: var(--primaryprimary-darker);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  overflow: hidden;
+  padding: 16px 24px;
+}
+
+.button-big.state-1-disabled {
+  align-items: center;
+  background-color: var(--disableddisabled);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  overflow: hidden;
+  padding: 16px 24px;
+}
+
+.button-big.state-1-hover {
+  align-items: center;
+  background-color: var(--primaryprimary-dark);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  overflow: hidden;
+  padding: 16px 24px;
+}
+
+.button-big.state-1-unstyled {
+  height: 28px;
+  width: 149px;
+}
+
+.button-big.state-1-default {
+  align-items: center;
+  background-color: #005ea2;
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  overflow: hidden;
+  padding: 16px 24px;
+}
+
+.button-big.state-1-active .default-2 {
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-big.state-1-disabled .default-2 {
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-big.state-1-hover .default-2 {
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-big.state-1-unstyled .default-2 {
+  color: #005ea2;
+  font-weight: 400;
+  left: 0;
+  position: absolute;
+  text-decoration: underline;
+  top: -1px;
+}
+
+.button-big.state-1-default .default-2 {
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}

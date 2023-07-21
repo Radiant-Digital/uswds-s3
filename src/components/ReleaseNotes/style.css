@@ -1,0 +1,35 @@
+.release-notes {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 4px 0px;
+  position: relative;
+}
+
+.release-notes .archives {
+  color: var(--full-white);
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.release-notes .version {
+  color: var(--full-white);
+  font-family: var(--text-link-list-font-family);
+  font-size: var(--text-link-list-font-size);
+  font-style: var(--text-link-list-font-style);
+  font-weight: var(--text-link-list-font-weight);
+  letter-spacing: var(--text-link-list-letter-spacing);
+  line-height: var(--text-link-list-line-height);
+  position: relative;
+  text-decoration: underline;
+  width: 569px;
+}

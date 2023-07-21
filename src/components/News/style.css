@@ -1,0 +1,107 @@
+.news {
+  align-items: flex-start;
+  box-shadow: var(--card-shadow);
+  display: inline-flex;
+  position: relative;
+}
+
+.news .overlap-wrapper {
+  height: 359px;
+  position: relative;
+  width: 435px;
+}
+
+.news .overlap-2 {
+  height: 359px;
+  position: relative;
+  width: 437px;
+}
+
+.news .rectangle-2 {
+  background-color: var(--full-white);
+  height: 358px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 435px;
+}
+
+.news .arrow-link-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 305px !important;
+}
+
+.news .arrow-link-2 {
+  color: #005ea2 !important;
+}
+
+.news .title-summary {
+  height: 216px;
+  left: 20px;
+  position: absolute;
+  top: 49px;
+  width: 399px;
+}
+
+.news .duis-aute-irure {
+  color: #686868;
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  left: 0;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: absolute;
+  top: 72px;
+  width: 389px;
+}
+
+.news .aging-in-the {
+  color: #005ea2;
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  left: 0;
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  position: absolute;
+  top: 0;
+  width: 395px;
+}
+
+.news .date-pub {
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 437px;
+}
+
+.news .january-AARP-wrapper {
+  background-color: #1a4480;
+  height: 29px;
+  position: relative;
+  width: 435px;
+}
+
+.news .january-AARP {
+  color: var(--full-white);
+  font-family: var(--h5-font-family);
+  font-size: var(--h5-font-size);
+  font-style: var(--h5-font-style);
+  font-weight: var(--h5-font-weight);
+  left: 20px;
+  letter-spacing: var(--h5-letter-spacing);
+  line-height: var(--h5-line-height);
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  width: 350px;
+}
+
+.news .arrow-link-3 {
+  background-image: url(../../../static/img/icon-11.svg) !important;
+}

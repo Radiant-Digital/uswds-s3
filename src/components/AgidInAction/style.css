@@ -1,0 +1,103 @@
+.AGID-in-action {
+  align-items: center;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(234, 247, 249) 0%, rgb(255, 255, 255) 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 50px 60px 100px;
+  position: relative;
+  width: 1920px;
+}
+
+.AGID-in-action .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.AGID-in-action .frame-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.AGID-in-action .reports-dashboards {
+  color: #005ea2;
+  font-family: var(--h4-font-family);
+  font-size: var(--h4-font-size);
+  font-style: var(--h4-font-style);
+  font-weight: var(--h4-font-weight);
+  letter-spacing: var(--h4-letter-spacing);
+  line-height: var(--h4-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.AGID-in-action .administration-in {
+  color: var(--basebase-dark);
+  font-family: var(--h1-font-family);
+  font-size: var(--h1-font-size);
+  font-style: var(--h1-font-style);
+  font-weight: var(--h1-font-weight);
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.AGID-in-action .an-explanation-of {
+  color: var(--basebase-dark);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: relative;
+  text-align: center;
+  width: 886px;
+}
+
+.AGID-in-action .text-wrapper-7 {
+  color: #565c65;
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+}
+
+.AGID-in-action .button-big-instance {
+  flex: 0 0 auto !important;
+}
+
+.AGID-in-action .button-big-2 {
+  color: var(--full-white) !important;
+  margin-top: -2px !important;
+  white-space: nowrap !important;
+}
+
+.AGID-in-action .frame-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 66px;
+  position: relative;
+}
+
+.AGID-in-action .data-product-instance {
+  background-color: #005ea2 !important;
+  background-image: url(../../../static/img/icon-10.svg) !important;
+}

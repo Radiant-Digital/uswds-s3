@@ -1,0 +1,1 @@
+export { DataProduct } from "./DataProduct";

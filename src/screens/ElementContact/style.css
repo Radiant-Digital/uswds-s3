@@ -1,0 +1,256 @@
+.element-contact {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-contact .contact-wrapper {
+  border: 1px none;
+  height: 2448px;
+  width: 1920px;
+}
+
+.element-contact .contact-2 {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1920px;
+}
+
+.element-contact .design-component-instance-node-4 {
+  flex: 0 0 auto !important;
+}
+
+.element-contact .header-5 {
+  background-image: url(../../../static/img/rectangle-59.svg) !important;
+  left: 384px !important;
+}
+
+.element-contact .left-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.element-contact .left-4 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgb(158, 202, 225) 47.92%, rgb(0, 94, 162) 97.25%);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #005ea2;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 50px 0px 50px 212px;
+  position: relative;
+  width: 1920px;
+}
+
+.element-contact .release-notes-data-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.element-contact .release-notes-data-2 {
+  color: var(--basebase-darker);
+  font-family: var(--h1-font-family);
+  font-size: var(--h1-font-size);
+  font-style: var(--h1-font-style);
+  font-weight: var(--h1-font-weight);
+  letter-spacing: var(--h1-letter-spacing);
+  line-height: var(--h1-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element-contact .p-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.element-contact .the-aging-2 {
+  color: var(--basebase-darker);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 738px;
+}
+
+.element-contact .section {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 1920px;
+}
+
+.element-contact .frame-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 1100px;
+  padding: 50px 91px 50px 212px;
+  position: relative;
+  width: 1273px;
+}
+
+.element-contact .text-wrapper-45 {
+  align-self: stretch;
+  color: #000000;
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-46 {
+  align-self: stretch;
+  color: #005ea2;
+  font-family: var(--h3-link-font-family);
+  font-size: var(--h3-link-font-size);
+  font-style: var(--h3-link-font-style);
+  font-weight: var(--h3-link-font-weight);
+  letter-spacing: var(--h3-link-letter-spacing);
+  line-height: var(--h3-link-line-height);
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-47 {
+  align-self: stretch;
+  color: #000000;
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: relative;
+  white-space: nowrap;
+}
+
+.element-contact .frame-38 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--basebase-lightest);
+  border-color: var(--basebase-lighter);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 50px 60px 50px 30px;
+  position: relative;
+}
+
+.element-contact .contact-partners {
+  align-self: stretch;
+  color: var(--basebase-darker);
+  font-family: var(--h2-font-family);
+  font-size: var(--h2-font-size);
+  font-style: var(--h2-font-style);
+  font-weight: var(--h2-font-weight);
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.element-contact .contact-block {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.element-contact .AGID-related {
+  align-self: stretch;
+  color: var(--basebase-darker);
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.element-contact .text-wrapper-48 {
+  align-self: stretch;
+  color: var(--basebase-darker);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: relative;
+}
+
+.element-contact .text-wrapper-49 {
+  color: var(--datatype-report);
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element-contact .text-wrapper-50 {
+  color: var(--datatype-report);
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

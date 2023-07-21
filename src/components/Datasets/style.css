@@ -1,0 +1,78 @@
+.datasets {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  padding: 30px;
+  position: relative;
+  width: 433px;
+}
+
+.datasets .frame-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.datasets .dataset {
+  color: var(--basebase);
+  font-family: var(--h5-font-family);
+  font-size: var(--h5-font-size);
+  font-style: var(--h5-font-style);
+  font-weight: var(--h5-font-weight);
+  height: 22px;
+  letter-spacing: var(--h5-letter-spacing);
+  line-height: var(--h5-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 373px;
+}
+
+.datasets .census {
+  color: #005ea2;
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: 373px;
+}
+
+.datasets .convallis-turpis {
+  color: var(--basebase);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  position: relative;
+  width: 356px;
+}
+
+.datasets .arrow-link-4 {
+  color: #005ea2 !important;
+}
+
+.datasets .arrow-link-5 {
+  flex: 0 0 auto !important;
+}
+
+.datasets.state-roll {
+  background-color: var(--primaryprimary-lighter);
+  border: 2px solid;
+  border-color: var(--accent-focus);
+}
+
+.datasets.state-default {
+  background-color: var(--full-white);
+  box-shadow: var(--card-shadow);
+}

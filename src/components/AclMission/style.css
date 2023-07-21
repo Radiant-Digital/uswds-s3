@@ -1,0 +1,61 @@
+.ACL-mission {
+  align-items: center;
+  background-color: var(--accent-coolaccent-cool-lighter);
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #005ea2;
+  border-top-style: solid;
+  border-top-width: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  justify-content: center;
+  padding: 50px 0px;
+  position: relative;
+  width: 1920px;
+}
+
+.ACL-mission .frame-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+}
+
+.ACL-mission .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.ACL-mission .our-mission {
+  color: #005ea2;
+  font-family: var(--h3-font-family);
+  font-size: var(--h3-font-size);
+  font-style: var(--h3-font-style);
+  font-weight: var(--h3-font-weight);
+  letter-spacing: var(--h3-letter-spacing);
+  line-height: var(--h3-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 431px;
+}
+
+.ACL-mission .maximize-the {
+  color: var(--baseink);
+  font-family: var(--intro-font-family);
+  font-size: var(--intro-font-size);
+  font-style: var(--intro-font-style);
+  font-weight: var(--intro-font-weight);
+  letter-spacing: var(--intro-letter-spacing);
+  line-height: var(--intro-line-height);
+  position: relative;
+  width: 890px;
+}
